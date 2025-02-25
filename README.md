@@ -152,4 +152,5 @@ These are just hypothetical concerns I thought of. If this was something importa
 
 ## Credits
 https://github.com/estrellagus/ - thank you for the inspiration, also borrowed heavily from your README
+
 https://www.reddit.com/r/IPTVGroupBuy/comments/1hwyfao/how_to_find_out_xtream_code_from_m3u_and_viceversa/
