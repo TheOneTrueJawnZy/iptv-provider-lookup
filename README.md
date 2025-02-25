@@ -72,7 +72,7 @@ At strong suggestion from the [IPTVGroupBuy Subreddit](https://www.reddit.com/r/
 
 As such, you will need to source your own providers urls in order to use this service. What's provided in the code repository is a DUMMY file so you have the correct json format. You will need to replace it!
 
-## How to get your Login from a M3U (credit to /u/1989guy on Reddit)
+## How to get your Login from a M3U ([credit to /u/1989guy on Reddit](https://www.reddit.com/r/IPTVGroupBuy/comments/1hwyfao/how_to_find_out_xtream_code_from_m3u_and_viceversa/))
 
 ```
 Here is an example M3U link
@@ -152,3 +152,4 @@ These are just hypothetical concerns I thought of. If this was something importa
 
 ## Credits
 https://github.com/estrellagus/ - thank you for the inspiration, also borrowed heavily from your README
+https://www.reddit.com/r/IPTVGroupBuy/comments/1hwyfao/how_to_find_out_xtream_code_from_m3u_and_viceversa/
