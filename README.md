@@ -22,7 +22,7 @@ Success login for MAX
 {
   "user_info": {
     "username": "REDACTED",
-    "password": "REDACET",
+    "password": "REDACTED",
     "message": "Happy days!",
     "auth": 1,
     "exp_date": "REDACTED",
