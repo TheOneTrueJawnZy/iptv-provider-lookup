@@ -1,0 +1,14 @@
+{
+    "ProviderA": {
+        "username": "testuser1",
+        "password": "securepassword1"
+    },
+    "ProviderB": {
+        "username": "anotheruser",
+        "password": "secret"
+    },
+    "ProviderC": {
+        "username": "guest",
+        "password": "12345"
+    }
+}
